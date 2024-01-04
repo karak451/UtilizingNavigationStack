@@ -1,4 +1,4 @@
-This example is about using NavigationStack similar to the NavigationView + NavigationLink approach, also with programmed navigation.
+This example is about using NavigationStack similar to the NavigationView + NavigationLink approach, when it comes to programmed navigation.
 This example is intended to demonstrate how is it possibel the programmatic navigation when you decide to use NavigationStack.
 Key elements to consider:
 <ul>
