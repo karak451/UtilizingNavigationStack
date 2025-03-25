@@ -1,5 +1,5 @@
 This example is about using NavigationStack similar to the NavigationView + NavigationLink approach, when it comes to programmed navigation.
-This example is intended to demonstrate how is it possibel the programmatic navigation when you decide to use NavigationStack.
+This example is intended to demonstrate how is it possible to navigate programmatically when you decide to use NavigationStack.
 Key elements to consider:
 <ul>
   <li>Hoisting is the best practice to pass variables</li>
